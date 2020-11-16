@@ -1,0 +1,84 @@
+{
+    "list": [{
+            "no": "1",
+            "item": "Wheat",
+            "quantity": "5",
+            "unit": "Kg",
+            "department": "Grocery",
+            "notes": "Roti"
+        },
+        {
+            "no": "2",
+            "item": "Rice",
+            "quantity": "2",
+            "unit": "Kg",
+            "department": "Grocery",
+            "notes": "BoiledRice"
+
+        },
+        {
+            "no": "3",
+            "item": "Besan",
+            "quantity": "1",
+            "unit": "Kg",
+            "department": "Grocery",
+            "notes": "Chila"
+        },
+        {
+            "no": "4",
+            "item": "Pudina",
+            "quantity": "100",
+            "unit": "gm",
+            "department": "Grocery",
+            "notes": "Leaves"
+        },
+        {
+            "no": "5",
+            "item": "Spinach",
+            "quantity": "200",
+            "unit": "gm",
+            "department": "Grocery",
+            "notes": "Leafy Veg"
+        },
+        {
+            "no": "6",
+            "item": "Capsicum",
+            "quantity": "1",
+            "unit": "kg",
+            "department": "Grocery",
+            "notes": "Vegetable"
+        },
+        {
+            "no": "7",
+            "item": "Soy Beans",
+            "quantity": "2",
+            "unit": "kg",
+            "department": "Grocery",
+            "notes": "Lentils"
+        },
+        {
+            "no": "8",
+            "item": "Cinnamon",
+            "quantity": "100",
+            "unit": "gm",
+            "department": "Grocery",
+            "notes": "Condiments"
+        },
+        {
+            "no": "9",
+            "item": "Garlic",
+            "quantity": "1",
+            "unit": "kg",
+            "department": "Grocery",
+            "notes": "Vegetable"
+        },
+        {
+            "no": "10",
+            "item": "Bread",
+            "quantity": "3",
+            "unit": "packets",
+            "department": "Grocery",
+            "notes": "Baked Items"
+        }
+    ]
+} 
